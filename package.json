@@ -1,0 +1,27 @@
+{
+  "name": "bot-tele-de",
+  "version": "1.0.0",
+  "description": "Bot Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Perepichai",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perepichai/bot-tele-de.git"
+  },
+  "bugs": {
+    "url": "https://github.com/perepichai/bot-tele-de/issues"
+  },
+  "homepage": "https://github.com/perepichai/bot-tele-de#readme"
+}
